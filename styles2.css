@@ -1,0 +1,221 @@
+/**{
+    border: red 1px solid;
+}*/
+html{
+    margin-left: 181px;
+    margin-right: 181px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.nav{
+	height: 100%;
+    width: 171px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #9A969C;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-left: 181px;
+    border: solid 2px;
+}
+
+.nav a{
+	padding: 15px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    display: block;
+}
+.nav a:hover{
+	color: #ffffff;
+}
+.how-to-dog{
+	padding-top: 20%;
+}
+.asset {
+    width: 100%;
+    height: 0%;
+    padding: 13%;
+    margin-top: -14%;
+}
+article {
+    margin-left: 158px;
+    padding: 0px 10px;
+    }
+.hidden{
+    visibility: collapse;
+}
+
+.name-this-dog{
+	margin-left: 158px;
+    background-color: #3E3544;
+    position: relative;
+}
+footer{
+	margin-left: 158px;
+    padding: 0px 10px;
+    background-color: #3E3544;
+    height: 140px;
+}
+.clearfix:after {
+  content: ' ';
+  display: table;
+  clear: both;
+}
+.footer-content{
+    float: right;
+}
+.facebook{
+    position: absolute;
+    display: inherit;
+    margin-top: 1.5%;
+}
+.linkedin{
+    position: relative;
+    margin-left: 53%;
+    margin-bottom: 2px;
+    margin-top: 14%;
+}
+.instagram{
+    margin-left: 14%;
+}
+.picture {
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    border: 4px solid #9A969C;
+    padding: 0;
+    display: inline-block;
+    margin-left: 48px;
+}
+.name-picture{
+    border-radius: 50%;
+    border: 8px solid #9A969C;
+    display: inline;
+    width: 38%;
+    height: auto;
+    margin: 4%;
+}
+h1{
+    position: absolute;
+    margin-left: 52%;
+    margin-top: 11%;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+form{
+    display: inline;
+    position: absolute;
+    margin-left: 19%;
+    margin-top: 20%;
+    padding-left: 2%
+}
+input{
+    width: 300%;
+    height: 50px;
+    border-radius: 2%;
+    margin-left: -115%;
+}
+h4{
+    color: white;
+    position: absolute;
+    margin-left: -20%;
+    margin-top: 1.9%;
+    font-size: 23px;
+}
+label{
+    margin-top: 71px;
+	color: #ffffff;
+    margin-left: -115%;
+    font-size: 20px;
+}
+
+.button{
+    font-weight: bold;
+    font-size: 18px;
+    width: 300%;
+    height: 50px;
+    border-radius: 2%;
+    background-color: #9A969C;
+    margin-left: -116%;
+}
+.some-dog{
+    margin-left: -1px; 
+}
+
+.Dog-content{
+	position: relative;
+    height: 300px
+}
+.p{
+	font-size: 19px;
+    position: absolute;
+    display: inline-block;
+    margin-right: 36px;
+    margin-left: 54px;
+
+}
+button.what{
+    margin-left: 457px;
+    margin-top: 126px;
+    position: absolute;
+    width: 180px;
+    height: 46px;
+    background-color: #3E3544;
+    color: white;
+    border-radius: 4%;
+    font-size: 16px;
+}
+button.how{
+    margin-left: 457px;
+    margin-top: 126px;
+    position: absolute;
+    width: 180px;
+    height: 46px;
+    background-color: #3E3544;
+    color: white;
+    border-radius: 4%;
+    font-size: 16px;
+}
+button.facts{
+    margin-left: 457px;
+    margin-top: 126px;
+    position: absolute;
+    width: 180px;
+    height: 46px;
+    background-color: #3E3544;
+    color: white;
+    border-radius: 4%;
+    font-size: 16px;
+}
+body{
+    border: solid 2px;
+}
+hr{
+    height: 3px;
+    background-color: #9A969C;
+    width: 90%;
+    margin-left: 3%;
+}
+.Dog1-h{
+    margin-left: 70px;
+    margin-bottom: 17px;
+    margin-top: 25px;
+}
+.Dog2-h{
+    margin-left: 61px;
+    margin-bottom: 17px;
+    margin-top: 25px;
+}
+.Dog3-h{
+    margin-left: 50px;
+    margin-bottom: 17px;
+    margin-top: 25px;
+}
