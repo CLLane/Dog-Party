@@ -7,10 +7,10 @@
 >To complete this project I had to build out a structure in HTML that was flexible detailed enought to allow me to call to its elements in two seperate CSS files.  I attempted to recreate the positioning in each of the composite photos provide, to accomplish this I had to utilize basic CSS syntax to manipulate CSS boxes. I made an effort to keep the code clean and easily digestable. 
 
 ### Composite & Static Page (Comp 1)
-![Composite](file:///Users/panko/dog-party/images/read-me-images/Composite_Comp_1.png)
-![Static Web Page](file:///Users/panko/dog-party/images/read-me-images/Static_Page_Comp_1.png)
+![Composite](https://github.com/CLLane/Dog-Party/blob/master/images/read-me-images/Composite_Comp_1.png)
+![Static Web Page](https://github.com/CLLane/Dog-Party/blob/master/images/read-me-images/Static_Page_Comp_1.png)
 
 ### Composite & Static Page (Comp 2)
-![Composite](file:///Users/panko/dog-party/images/read-me-images/Composite_Comp_2.png)
-![Static Web Page](file:///Users/panko/dog-party/images/read-me-images/Static_Page_Comp_2.png)
+![Composite](https://github.com/CLLane/Dog-Party/blob/master/images/read-me-images/Composite_Comp_2.png)
+![Static Web Page](https://github.com/CLLane/Dog-Party/blob/master/images/read-me-images/Static_Page_Comp_2.png)
 
