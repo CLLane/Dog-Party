@@ -73,6 +73,12 @@ footer{
 	text-align: center;
     padding-right: 10px;
 }
+.icons-row-1{
+    display: inline;
+}
+.icons-row-2{
+    display: inline;
+}
 h2{
 	text-align: center;
 }
