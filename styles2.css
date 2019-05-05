@@ -73,7 +73,7 @@ footer{
 	margin-left: 158px;
     padding: 0px 10px;
     background-color: #3E3544;
-    height: 140px;
+    height: 185px;
 }
 .clearfix:after {
   content: ' ';
@@ -81,9 +81,8 @@ footer{
   clear: both;
 }
 .footer-content{
-    float: right;
-    margin-top: 6px;
-    margin-right: -15px;
+    float: right; 
+    margin: 25px 30px;
 }
 }
 .facebook{
@@ -92,13 +91,10 @@ footer{
     margin-top: .9%;
 }
 .linkedin{
-    position: relative;
-    margin-left: 45%;
-    /*margin-bottom: 2px;*/
-    margin-top: 9%;
+  float: right;
 }
 .instagram{
-    margin-left: 6%;
+    float: right;
 }
 .picture {
     border-radius: 50%;
@@ -111,7 +107,7 @@ footer{
 }
 .name-picture{
     border-radius: 50%;
-    border: 5px solid #9A969C;
+    border: 8px solid #9A969C;
     display: inline;
     width: 38%;
     height: auto;
@@ -155,9 +151,17 @@ label{
     font-size: 15px
 }
 .icons{
-    margin-top: -4%;
+    width: min-content;
 }
-
+.icons-row-1{
+    display: inline-block;
+    width: 120px;
+}
+.icon-row-2{
+    margin-top: 20px;
+    display: inline-block;
+    width: 120px;
+}
 .button{
     font-weight: bold;
     font-size: 18px;
@@ -177,7 +181,7 @@ label{
 	position: relative;
     height: 300px
 }
-.p{
+p{
     font-weight: 300;
 	font-size: 17px;
     position: absolute;
